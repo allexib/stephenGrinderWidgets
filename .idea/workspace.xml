@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0e37be6-3384-4bdb-8612-8fd8cb0ccef3" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Translate.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Dropdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dropdown.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -42,11 +41,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Dropdown.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Dropdown.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Dropdown.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+            <state relative-caret-position="304">
+              <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Translate.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/Translate.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="23" column="71" selection-start-line="23" selection-start-column="71" selection-end-line="23" selection-end-column="71" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -72,6 +83,7 @@
         <option value="$PROJECT_DIR$/src/components/Search.js" />
         <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/components/Dropdown.js" />
+        <option value="$PROJECT_DIR$/src/components/Translate.js" />
       </list>
     </option>
   </component>
@@ -168,12 +180,12 @@
       <workItem from="1613477892104" duration="5625000" />
       <workItem from="1613561045469" duration="9900000" />
       <workItem from="1613572782077" duration="8531000" />
-      <workItem from="1613638764072" duration="7284000" />
+      <workItem from="1613638764072" duration="8193000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34032000" />
+    <option name="totallyTimeSpent" value="34941000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1616" y="110" width="944" height="1024" extended-state="0" />
@@ -327,6 +339,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Dropdown.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Search.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -347,10 +366,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Dropdown.js">
+    <entry file="file://$PROJECT_DIR$/src/components/Translate.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        <state relative-caret-position="368">
+          <caret line="23" column="71" selection-start-line="23" selection-start-column="71" selection-end-line="23" selection-end-column="71" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
