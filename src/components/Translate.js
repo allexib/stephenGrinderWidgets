@@ -13,8 +13,8 @@ const options = [
         value: 'ar',
     },
     {
-        label: 'Hindi',
-        value: 'hi'
+        label: 'Russian',
+        value: 'ru'
     }
 ];
 
